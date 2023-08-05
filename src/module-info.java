@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author berka
+ *
+ */
+module patikaStore {
+}
