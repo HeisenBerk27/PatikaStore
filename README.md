@@ -1,1 +1,2 @@
 # PatikaStore
+www.patika.dev
